@@ -7,7 +7,7 @@ Required material:
 -pulse sensor
 -neopixel LED stripe
 
-I used a redboard by SparkFun but this can easily work with any other arduino-like board.
+I used a redboard by SparkFun but this can easily work with any other Arduino-like board.
 Adjust pin out if needed.
 Not adressing all the LEDs ensures the board's wellbeing in early stages
 (if you are still trying to figure out the cabling to support all LEDs for instance).
